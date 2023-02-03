@@ -1,3 +1,7 @@
-# Steps
+# Problem
+
+Calling a public library from `forge script` while using `startPrank` does not correctly mock `msg.sender`.
+
+# Steps to Reproduce
 1. `yarn install`
-2. `forge script src/Run.sol`
+2. `forge script src/Run.sol -vvv`
