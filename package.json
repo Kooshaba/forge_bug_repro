@@ -1,0 +1,10 @@
+{
+  "name": "public_lib",
+  "version": "0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "forge-std": "https://github.com/foundry-rs/forge-std.git#4d36e3f7e2168c8155c641eb0f80e85cd584bd1c",
+    "ds-test": "https://github.com/dapphub/ds-test.git#c7a36fb236f298e04edf28e2fee385b80f53945f"
+  }
+}
